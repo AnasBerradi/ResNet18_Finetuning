@@ -1,5 +1,5 @@
 # ResNet18_Finetuning
-This repo contains a PyTorch implementation of the pretrained Resnet18 to classify images that may or not contains hornets in a bee farm.
+This repo contains a PyTorch implementation of a pretrained Resnet18 to classify images that may or not contains hornets in a bee farm.
 The localization was based on a paper named "Learning Deep Features for Discriminative Localization" by Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba
 Computer Science and Artificial Intelligence Laboratory, MIT.
 [Link to the paper](https://arxiv.org/pdf/1512.04150.pdf)
